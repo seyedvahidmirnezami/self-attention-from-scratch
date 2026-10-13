@@ -67,6 +67,7 @@ The course continues from here to positional encoding, the encoder block, BERT p
 fine-tuning for classification and NER, Vision Transformers, and two-tower semantic search.
 
 More from the course:
+- [transformer-encoder-pytorch](https://github.com/seyedvahidmirnezami/transformer-encoder-pytorch): the full encoder block, and why positional encoding matters
 - [vision-transformer-cassava](https://github.com/seyedvahidmirnezami/vision-transformer-cassava): fine-tune a Vision Transformer on Kaggle
 - [semantic-search-two-tower](https://github.com/seyedvahidmirnezami/semantic-search-two-tower): build two-tower retrieval from scratch
 
